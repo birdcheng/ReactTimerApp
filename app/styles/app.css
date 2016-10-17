@@ -3,3 +3,6 @@
 
 .top-bar .menu-text {
   color: white; }
+
+.top-bar .active-link {
+  font-weight: bold; }
